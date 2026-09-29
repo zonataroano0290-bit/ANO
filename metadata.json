@@ -1,0 +1,6 @@
+{
+  "name": "ANO 4K",
+  "description": "AI-powered real 4K image and video super-resolution enhancement studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
